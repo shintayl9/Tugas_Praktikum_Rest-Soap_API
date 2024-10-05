@@ -5,9 +5,9 @@ $url = 'https://jsonplaceholder.typicode.com/posts';
 
 // Data yang akan dikirim (format array PHP)
 $data = array(
-    'title' => 'Belajar API dengan PHP',
-    'body' => 'Ini adalah contoh penggunaan POST request',
-    'userId' => 1
+    'title' => 'Tugas Praktikum Interoperabilitas API Dasar dengan PHP',
+    'body' => 'POST request untuk mengirim data',
+    'userId' => 22
 );
 
 // Inisialisasi cURL
