@@ -7,7 +7,7 @@ Tugas Praktikum Interoperability API Dasar dengan PHP
    ![Screeshot tugaspraktikum_rest-soap_api](images/2_post.png)
 
 3. Hasil Menghapus Data dengan DELETE Request.
-   ![Screeshot tugaspraktikum_rest-soap_api](images/3_delete)
+   ![Screeshot tugaspraktikum_rest-soap_api](images/3_delete.png)
 
 4. Analisis Metode HTTP.
    Perbedaaan antara metode GET, POST, dan DELETE.
